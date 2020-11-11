@@ -1,48 +1,44 @@
 <h1 align="center">
-  JeffFlix:tv:
+  JeffFlix :tv:
 </h1>
 
-## Clone this repository
+<div align="center"></div>
+  
+<p align="center">
+  <a href="#overview-book">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies-computer">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#how-to-use-fire">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute-gear">How to contribute</a>
+</p>
 
+# Overview :book:
+ <p>
+  Recreating the Netflix interface.
+  </p>
+
+# How to use :fire:
+## Clone this repository
 ```bash
 $ git clone https://github.com/ojeffoinheiro/jeffFlix.git
 ```
-
+## Go into the repository
+```bash
+$ cd jeffFlix
+```
 ## Install the dependencies
-
 ```bash
-cd backend && npm i
-cd mobile && npm i
+npm i
 ```
-
-
-## Running the Server 🌐
-
-Enter on folder
-
+## Run :iphone:
+Run the application (iOS)
 ```bash
-$ cd backend
+$ react-native run-ios --simulator="iPhone XS Max"
 ```
-
-Run the server
-
-```bash
-$ yarn start
-```
-
-## Run on mobile :iphone:
-
-Enter on folder
-
-```bash
-$ cd mobile
-```
-
-Run the application
+Run the application (Android)
 ```bash
 $ react-native run-android
 ```
-
+---
 
 # How to contribute :gear:
 - Fork this repository;
