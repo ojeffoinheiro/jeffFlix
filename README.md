@@ -6,7 +6,6 @@
   
 <p align="center">
   <a href="#overview-book">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies-computer">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#how-to-use-fire">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute-gear">How to contribute</a>
 </p>
