@@ -47,4 +47,3 @@ $ react-native run-android
 - Push to your branch: `git push origin my-feature`.
 
 ---
-
