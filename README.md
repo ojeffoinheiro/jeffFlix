@@ -16,15 +16,15 @@
   </p>
 
 # How to use :fire:
-## Clone this repository
+## Clone this repository :floppy_disk:
 ```bash
 $ git clone https://github.com/ojeffoinheiro/jeffFlix.git
 ```
-## Go into the repository
+## Go into the repository :file_folder:
 ```bash
 $ cd jeffFlix
 ```
-## Install the dependencies
+## Install the dependencies :wrench:
 ```bash
 npm i
 ```
