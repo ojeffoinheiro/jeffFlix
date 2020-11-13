@@ -28,14 +28,9 @@ $ cd jeffFlix
 ```bash
 npm i
 ```
-## Run :iphone:
-Run the application (iOS)
+## Run
 ```bash
-$ react-native run-ios --simulator="iPhone XS Max"
-```
-Run the application (Android)
-```bash
-$ react-native run-android
+$ npm start
 ```
 ---
 
