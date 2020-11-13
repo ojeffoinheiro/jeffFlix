@@ -6,30 +6,29 @@
     margin: 0px 0px 0px 30px;
 }
 
-.movieRow--list-area {
+.movieRow--listarea {
     overflow-x : hidden;
     padding-left: 30px;
 }
 
 .movieRow--list {
-    width: 9999px;
     transition : all ease 0.2s;
 }
 
 .movieRow--item{
     display: inline-block;
-    width: 150px;
+    width: 34vw;
     cursor: pointer;
 }
 
-.movieRow--item img {
+.movieRow--item img{
    width: 100%;
    transform: scale(0.9);
    transition : all ease 0.2s;
 }
 
 
-.movieRow--item img:hover {
+.movieRow--item img:hover{
     transform: scale(1);
  }
 
