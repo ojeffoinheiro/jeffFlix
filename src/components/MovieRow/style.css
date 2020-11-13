@@ -17,7 +17,7 @@
 
 .movieRow--item{
     display: inline-block;
-    width: 34vw;
+    width: 150px;
     cursor: pointer;
 }
 
